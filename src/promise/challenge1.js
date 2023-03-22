@@ -68,5 +68,6 @@ fetchData3(`${API3}/products`)
   .finally(() => console.log('Finally'));
 
 
-
+/////////////////////////
+//explicacion y ejemplo facil: https://www.youtube.com/watch?v=tlTFyXauOa4
 
